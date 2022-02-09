@@ -1,0 +1,754 @@
+year,quarter,suppression,gennme,atc4,atc5,totalRX
+2019,1,F,Acebutolol Hydrochloride,C07AB,C07AB04,1044
+2019,1,T,Acebutolol Hydrochloride,C07AB,C07AB04,0
+2019,1,F,Aliskiren,C09XA,C09XA02,226
+2019,1,T,Aliskiren,C09XA,C09XA02,0
+2019,1,T,Aliskiren/Hydrochlorothiazide,C09XA,C09XA52,0
+2019,1,F,Ambrisentan,C02KX,C02KX02,4325
+2019,1,T,Ambrisentan,C02KX,C02KX02,0
+2019,1,F,Amiloride Hydrochloride,C03DB,C03DB01,5228
+2019,1,T,Amiloride Hydrochloride,C03DB,C03DB01,0
+2019,1,F,Amiloride Hydrochloride/Hydrochlorothiazide,C03EA,C03EA01,929
+2019,1,T,Amiloride Hydrochloride/Hydrochlorothiazide,C03EA,C03EA01,0
+2019,1,F,Amlodipine Besylate,C08CA,C08CA01,2329653
+2019,1,T,Amlodipine Besylate,C08CA,C08CA01,0
+2019,1,F,Amlodipine Besylate/Benazepril Hydrochloride,C09BB,C09BB13,56500
+2019,1,T,Amlodipine Besylate/Benazepril Hydrochloride,C09BB,C09BB13,0
+2019,1,F,Amlodipine Besylate/HCTZ/Olmesartan Medoxomil,C09DX,C09DX03,649
+2019,1,T,Amlodipine Besylate/HCTZ/Olmesartan Medoxomil,C09DX,C09DX03,0
+2019,1,F,Amlodipine Besylate/Hydrochlorothiazide/Valsartan,C09DX,C09DX01,772
+2019,1,T,Amlodipine Besylate/Hydrochlorothiazide/Valsartan,C09DX,C09DX01,0
+2019,1,F,Amlodipine Besylate/Olmesartan Medoxomil,C09DB,C09DB02,1234
+2019,1,T,Amlodipine Besylate/Olmesartan Medoxomil,C09DB,C09DB02,0
+2019,1,T,Amlodipine Besylate/Telmisartan,C09DB,C09DB04,0
+2019,1,F,Amlodipine Besylate/Valsartan,C09DB,C09DB01,2680
+2019,1,T,Amlodipine Besylate/Valsartan,C09DB,C09DB01,0
+2019,1,T,Amlodipine/Perindopril Arginine,C09BB,C09BB04,0
+2019,1,F,Atenolol,C07AB,C07AB03,410988
+2019,1,T,Atenolol,C07AB,C07AB03,0
+2019,1,F,Atenolol/Chlorthalidone,C07CB,C07CB03,30853
+2019,1,T,Atenolol/Chlorthalidone,C07CB,C07CB03,0
+2019,1,F,Azilsartan Medoxomil/Chlorthalidone,C03BA,C03BA04,1117
+2019,1,T,Azilsartan Medoxomil/Chlorthalidone,C03BA,C03BA04,0
+2019,1,F,Benazepril Hydrochloride,C09AA,C09AA07,146124
+2019,1,T,Benazepril Hydrochloride,C09AA,C09AA07,0
+2019,1,F,Benazepril Hydrochloride/Hydrochlorothiazide,C09BA,C09BA07,13100
+2019,1,T,Benazepril Hydrochloride/Hydrochlorothiazide,C09BA,C09BA07,0
+2019,1,T,Bendroflumethiazide/Nadolol,C07BA,C07BA12,0
+2019,1,F,Betaxolol Hydrochloride,C07AB,C07AB05,164
+2019,1,T,Betaxolol Hydrochloride,C07AB,C07AB05,0
+2019,1,F,Bisoprolol Fumarate,C07AB,C07AB07,29456
+2019,1,T,Bisoprolol Fumarate,C07AB,C07AB07,0
+2019,1,F,Bisoprolol Fumarate/Hydrochlorothiazide,C07BB,C07BB07,22366
+2019,1,T,Bisoprolol Fumarate/Hydrochlorothiazide,C07BB,C07BB07,0
+2019,1,F,Bosentan,C02KX,C02KX01,768
+2019,1,T,Bosentan,C02KX,C02KX01,0
+2019,1,F,Bumetanide,C03CA,C03CA02,55057
+2019,1,T,Bumetanide,C03CA,C03CA02,0
+2019,1,F,Candesartan Cilexetil,C09CA,C09CA06,4345
+2019,1,T,Candesartan Cilexetil,C09CA,C09CA06,0
+2019,1,F,Candesartan Cilexetil/Hydrochlorothiazide,C09DA,C09DA06,490
+2019,1,T,Candesartan Cilexetil/Hydrochlorothiazide,C09DA,C09DA06,0
+2019,1,F,Captopril,C09AA,C09AA01,6278
+2019,1,T,Captopril,C09AA,C09AA01,0
+2019,1,F,Captopril/Hydrochlorothiazide,C09BA,C09BA01,66
+2019,1,T,Captopril/Hydrochlorothiazide,C09BA,C09BA01,0
+2019,1,F,Carvedilol,C07AG,C07AG02,665126
+2019,1,T,Carvedilol,C07AG,C07AG02,0
+2019,1,F,Carvedilol Phosphate,C07AG,C07AG02,902
+2019,1,T,Carvedilol Phosphate,C07AG,C07AG02,0
+2019,1,F,Chlorothiazide,C03AA,C03AA04,5902
+2019,1,T,Chlorothiazide,C03AA,C03AA04,0
+2019,1,F,Chlorthalidone,C03BA,C03BA04,173918
+2019,1,T,Chlorthalidone,C03BA,C03BA04,0
+2019,1,F,Clonidine Hydrochloride,C02AC,C02AC01,1358682
+2019,1,T,Clonidine Hydrochloride,C02AC,C02AC01,0
+2019,1,F,Diltiazem Hydrochloride,C08DB,C08DB01,187430
+2019,1,T,Diltiazem Hydrochloride,C08DB,C08DB01,0
+2019,1,F,Doxazosin Mesylate,C02CA,C02CA04,55242
+2019,1,T,Doxazosin Mesylate,C02CA,C02CA04,0
+2019,1,F,Enalapril Maleate,C09AA,C09AA02,216985
+2019,1,T,Enalapril Maleate,C09AA,C09AA02,0
+2019,1,F,Enalapril Maleate/Hydrochlorothiazide,C09BA,C09BA02,12888
+2019,1,T,Enalapril Maleate/Hydrochlorothiazide,C09BA,C09BA02,0
+2019,1,F,Eplerenone,C03DA,C03DA04,4470
+2019,1,T,Eplerenone,C03DA,C03DA04,0
+2019,1,F,Felodipine,C08CA,C08CA02,7019
+2019,1,T,Felodipine,C08CA,C08CA02,0
+2019,1,F,Fosinopril Sodium,C09AA,C09AA09,3649
+2019,1,T,Fosinopril Sodium,C09AA,C09AA09,0
+2019,1,F,Fosinopril Sodium/Hydrochlorothiazide,C09BA,C09BA09,93
+2019,1,T,Fosinopril Sodium/Hydrochlorothiazide,C09BA,C09BA09,0
+2019,1,F,Furosemide,C03CA,C03CA01,910454
+2019,1,T,Furosemide,C03CA,C03CA01,0
+2019,1,F,Guanfacine Hydrochloride,C02AC,C02AC02,843185
+2019,1,T,Guanfacine Hydrochloride,C02AC,C02AC02,0
+2019,1,F,Hydralazine Hydrochloride,C02DB,C02DB02,217650
+2019,1,T,Hydralazine Hydrochloride,C02DB,C02DB02,0
+2019,1,F,Hydralazine Hydrochloride/Isosorbide Dinitrate,C02DB,C02DB02,1686
+2019,1,T,Hydralazine Hydrochloride/Isosorbide Dinitrate,C02DB,C02DB02,0
+2019,1,F,Hydrochlorothiazide,C03AA,C03AA03,1268973
+2019,1,T,Hydrochlorothiazide,C03AA,C03AA03,0
+2019,1,F,Hydrochlorothiazide/Irbesartan,C09DA,C09DA04,10601
+2019,1,T,Hydrochlorothiazide/Irbesartan,C09DA,C09DA04,0
+2019,1,F,Hydrochlorothiazide/Lisinopril,C09BA,C09BA03,561007
+2019,1,T,Hydrochlorothiazide/Lisinopril,C09BA,C09BA03,0
+2019,1,F,Hydrochlorothiazide/Losartan Potassium,C09DA,C09DA01,388050
+2019,1,T,Hydrochlorothiazide/Losartan Potassium,C09DA,C09DA01,0
+2019,1,T,Hydrochlorothiazide/Methyldopa,C02LB,C02LB01,0
+2019,1,T,Hydrochlorothiazide/Metoprolol Succinate,C07BB,C07BB02,0
+2019,1,F,Hydrochlorothiazide/Metoprolol Tartrate,C07BB,C07BB02,2510
+2019,1,T,Hydrochlorothiazide/Metoprolol Tartrate,C07BB,C07BB02,0
+2019,1,T,Hydrochlorothiazide/Moexipril Hydrochloride,C09BA,C09BA13,0
+2019,1,T,Hydrochlorothiazide/Propranolol Hydrochloride,C07BA,C07BA05,0
+2019,1,F,Hydrochlorothiazide/Quinapril Hydrochloride,C09BA,C09BA06,896
+2019,1,T,Hydrochlorothiazide/Quinapril Hydrochloride,C09BA,C09BA06,0
+2019,1,F,Hydrochlorothiazide/Spironolactone,C03EA,C03EA01,9946
+2019,1,T,Hydrochlorothiazide/Spironolactone,C03EA,C03EA01,0
+2019,1,F,Hydrochlorothiazide/Telmisartan,C09DA,C09DA07,1295
+2019,1,T,Hydrochlorothiazide/Telmisartan,C09DA,C09DA07,0
+2019,1,F,Hydrochlorothiazide/Triamterene,C03EA,C03EA01,130662
+2019,1,T,Hydrochlorothiazide/Triamterene,C03EA,C03EA01,0
+2019,1,F,Hydrochlorothiazide/Valsartan,C09DA,C09DA03,24923
+2019,1,T,Hydrochlorothiazide/Valsartan,C09DA,C09DA03,0
+2019,1,F,Indapamide,C03BA,C03BA11,8805
+2019,1,T,Indapamide,C03BA,C03BA11,0
+2019,1,F,Irbesartan,C09CA,C09CA04,40022
+2019,1,T,Irbesartan,C09CA,C09CA04,0
+2019,1,F,Isradipine,C08CA,C08CA03,151
+2019,1,T,Isradipine,C08CA,C08CA03,0
+2019,1,F,Labetalol Hydrochloride,C07AG,C07AG01,142113
+2019,1,T,Labetalol Hydrochloride,C07AG,C07AG01,0
+2019,1,F,Lisinopril,C09AA,C09AA03,2815187
+2019,1,T,Lisinopril,C09AA,C09AA03,0
+2019,1,F,Losartan Potassium,C09CA,C09CA01,1292469
+2019,1,T,Losartan Potassium,C09CA,C09CA01,0
+2019,1,F,Macitentan,C02KX,C02KX04,2317
+2019,1,T,Macitentan,C02KX,C02KX04,0
+2019,1,T,Methyclothiazide,C03AA,C03AA08,0
+2019,1,F,Methyldopa,C02AB,C02AB01,5107
+2019,1,T,Methyldopa,C02AB,C02AB01,0
+2019,1,F,Metolazone,C03BA,C03BA08,26375
+2019,1,T,Metolazone,C03BA,C03BA08,0
+2019,1,F,Metoprolol Succinate,C07AB,C07AB02,1002572
+2019,1,T,Metoprolol Succinate,C07AB,C07AB02,0
+2019,1,F,Metoprolol Tartrate,C07AB,C07AB02,918087
+2019,1,T,Metoprolol Tartrate,C07AB,C07AB02,0
+2019,1,T,Metyrosine,C02KB,C02KB01,0
+2019,1,F,Minoxidil,C02DC,C02DC01,10091
+2019,1,T,Minoxidil,C02DC,C02DC01,0
+2019,1,F,Moexipril Hydrochloride,C09AA,C09AA13,17
+2019,1,T,Moexipril Hydrochloride,C09AA,C09AA13,0
+2019,1,F,Nadolol,C07AA,C07AA12,26099
+2019,1,T,Nadolol,C07AA,C07AA12,0
+2019,1,F,Nebivolol Hydrochloride,C07AB,C07AB12,17847
+2019,1,T,Nebivolol Hydrochloride,C07AB,C07AB12,0
+2019,1,T,Nebivolol/Valsartan,C09DX,C09DX05,0
+2019,1,F,Nicardipine Hydrochloride,C08CA,C08CA04,70
+2019,1,T,Nicardipine Hydrochloride,C08CA,C08CA04,0
+2019,1,F,Nifedipine,C08CA,C08CA05,240976
+2019,1,T,Nifedipine,C08CA,C08CA05,0
+2019,1,T,Nimodipine,C08CA,C08CA06,0
+2019,1,F,Nisoldipine,C08CA,C08CA07,53
+2019,1,T,Nisoldipine,C08CA,C08CA07,0
+2019,1,F,Perindopril Erbumine,C09AA,C09AA04,61
+2019,1,T,Perindopril Erbumine,C09AA,C09AA04,0
+2019,1,F,Pindolol,C07AA,C07AA03,1184
+2019,1,T,Pindolol,C07AA,C07AA03,0
+2019,1,F,Prazosin Hydrochloride,C02CA,C02CA01,344929
+2019,1,T,Prazosin Hydrochloride,C02CA,C02CA01,0
+2019,1,F,Propranolol Hydrochloride,C07AA,C07AA05,484561
+2019,1,T,Propranolol Hydrochloride,C07AA,C07AA05,0
+2019,1,F,Quinapril Hydrochloride,C09AA,C09AA06,13983
+2019,1,T,Quinapril Hydrochloride,C09AA,C09AA06,0
+2019,1,F,Ramipril,C09AA,C09AA05,43630
+2019,1,T,Ramipril,C09AA,C09AA05,0
+2019,1,F,Riociguat,C02KX,C02KX05,599
+2019,1,T,Riociguat,C02KX,C02KX05,0
+2019,1,F,Sacubitril/Valsartan,C09DX,C09DX04,42712
+2019,1,T,Sacubitril/Valsartan,C09DX,C09DX04,0
+2019,1,F,Sotalol Hydrochloride,C07AA,C07AA07,18289
+2019,1,T,Sotalol Hydrochloride,C07AA,C07AA07,0
+2019,1,F,Spironolactone,C03DA,C03DA01,444527
+2019,1,T,Spironolactone,C03DA,C03DA01,0
+2019,1,F,Telmisartan,C09CA,C09CA07,6312
+2019,1,T,Telmisartan,C09CA,C09CA07,0
+2019,1,T,Timolol Maleate,C07AA,C07AA06,0
+2019,1,T,Tolvaptan,C03XA,C03XA01,0
+2019,1,F,Tolvaptan;Tolvaptan,C03XA,C03XA01,113
+2019,1,T,Tolvaptan;Tolvaptan,C03XA,C03XA01,0
+2019,1,F,Torsemide,C03CA,C03CA04,49655
+2019,1,T,Torsemide,C03CA,C03CA04,0
+2019,1,F,Trandolapril,C09AA,C09AA10,238
+2019,1,T,Trandolapril,C09AA,C09AA10,0
+2019,1,T,Trandolapril/Verapamil Hydrochloride,C09BB,C09BB10,0
+2019,1,T,Triamterene,C03DB,C03DB02,0
+2019,1,F,Valsartan,C09CA,C09CA03,40824
+2019,1,T,Valsartan,C09CA,C09CA03,0
+2019,1,F,Verapamil Hydrochloride,C08DA,C08DA01,86088
+2019,1,T,Verapamil Hydrochloride,C08DA,C08DA01,0
+2019,2,F,Acebutolol Hydrochloride,C07AB,C07AB04,1125
+2019,2,T,Acebutolol Hydrochloride,C07AB,C07AB04,0
+2019,2,F,Aliskiren,C09XA,C09XA02,58
+2019,2,T,Aliskiren,C09XA,C09XA02,0
+2019,2,T,Aliskiren/Hydrochlorothiazide,C09XA,C09XA52,0
+2019,2,F,Ambrisentan,C02KX,C02KX02,3995
+2019,2,T,Ambrisentan,C02KX,C02KX02,0
+2019,2,F,Amiloride Hydrochloride,C03DB,C03DB01,5375
+2019,2,T,Amiloride Hydrochloride,C03DB,C03DB01,0
+2019,2,F,Amiloride Hydrochloride/Hydrochlorothiazide,C03EA,C03EA01,809
+2019,2,T,Amiloride Hydrochloride/Hydrochlorothiazide,C03EA,C03EA01,0
+2019,2,F,Amlodipine Besylate,C08CA,C08CA01,2286864
+2019,2,T,Amlodipine Besylate,C08CA,C08CA01,0
+2019,2,F,Amlodipine Besylate/Benazepril Hydrochloride,C09BB,C09BB13,56903
+2019,2,T,Amlodipine Besylate/Benazepril Hydrochloride,C09BB,C09BB13,0
+2019,2,F,Amlodipine Besylate/HCTZ/Olmesartan Medoxomil,C09DX,C09DX03,686
+2019,2,T,Amlodipine Besylate/HCTZ/Olmesartan Medoxomil,C09DX,C09DX03,0
+2019,2,F,Amlodipine Besylate/Hydrochlorothiazide/Valsartan,C09DX,C09DX01,829
+2019,2,T,Amlodipine Besylate/Hydrochlorothiazide/Valsartan,C09DX,C09DX01,0
+2019,2,F,Amlodipine Besylate/Olmesartan Medoxomil,C09DB,C09DB02,1467
+2019,2,T,Amlodipine Besylate/Olmesartan Medoxomil,C09DB,C09DB02,0
+2019,2,T,Amlodipine Besylate/Telmisartan,C09DB,C09DB04,0
+2019,2,F,Amlodipine Besylate/Valsartan,C09DB,C09DB01,3310
+2019,2,T,Amlodipine Besylate/Valsartan,C09DB,C09DB01,0
+2019,2,T,Amlodipine/Perindopril Arginine,C09BB,C09BB04,0
+2019,2,F,Atenolol,C07AB,C07AB03,402500
+2019,2,T,Atenolol,C07AB,C07AB03,0
+2019,2,F,Atenolol/Chlorthalidone,C07CB,C07CB03,30019
+2019,2,T,Atenolol/Chlorthalidone,C07CB,C07CB03,0
+2019,2,F,Azilsartan Medoxomil/Chlorthalidone,C03BA,C03BA04,1212
+2019,2,T,Azilsartan Medoxomil/Chlorthalidone,C03BA,C03BA04,0
+2019,2,F,Benazepril Hydrochloride,C09AA,C09AA07,145421
+2019,2,T,Benazepril Hydrochloride,C09AA,C09AA07,0
+2019,2,F,Benazepril Hydrochloride/Hydrochlorothiazide,C09BA,C09BA07,11705
+2019,2,T,Benazepril Hydrochloride/Hydrochlorothiazide,C09BA,C09BA07,0
+2019,2,T,Bendroflumethiazide/Nadolol,C07BA,C07BA12,0
+2019,2,F,Betaxolol Hydrochloride,C07AB,C07AB05,165
+2019,2,T,Betaxolol Hydrochloride,C07AB,C07AB05,0
+2019,2,F,Bisoprolol Fumarate,C07AB,C07AB07,29445
+2019,2,T,Bisoprolol Fumarate,C07AB,C07AB07,0
+2019,2,F,Bisoprolol Fumarate/Hydrochlorothiazide,C07BB,C07BB07,21474
+2019,2,T,Bisoprolol Fumarate/Hydrochlorothiazide,C07BB,C07BB07,0
+2019,2,F,Bosentan,C02KX,C02KX01,693
+2019,2,T,Bosentan,C02KX,C02KX01,0
+2019,2,F,Bumetanide,C03CA,C03CA02,59071
+2019,2,T,Bumetanide,C03CA,C03CA02,0
+2019,2,F,Candesartan Cilexetil,C09CA,C09CA06,5680
+2019,2,T,Candesartan Cilexetil,C09CA,C09CA06,0
+2019,2,F,Candesartan Cilexetil/Hydrochlorothiazide,C09DA,C09DA06,875
+2019,2,T,Candesartan Cilexetil/Hydrochlorothiazide,C09DA,C09DA06,0
+2019,2,F,Captopril,C09AA,C09AA01,6072
+2019,2,T,Captopril,C09AA,C09AA01,0
+2019,2,F,Captopril/Hydrochlorothiazide,C09BA,C09BA01,68
+2019,2,T,Captopril/Hydrochlorothiazide,C09BA,C09BA01,0
+2019,2,F,Carvedilol,C07AG,C07AG02,667615
+2019,2,T,Carvedilol,C07AG,C07AG02,0
+2019,2,F,Carvedilol Phosphate,C07AG,C07AG02,975
+2019,2,T,Carvedilol Phosphate,C07AG,C07AG02,0
+2019,2,F,Chlorothiazide,C03AA,C03AA04,5830
+2019,2,T,Chlorothiazide,C03AA,C03AA04,0
+2019,2,F,Chlorthalidone,C03BA,C03BA04,183621
+2019,2,T,Chlorthalidone,C03BA,C03BA04,0
+2019,2,F,Clonidine Hydrochloride,C02AC,C02AC01,1344853
+2019,2,T,Clonidine Hydrochloride,C02AC,C02AC01,0
+2019,2,F,Diltiazem Hydrochloride,C08DB,C08DB01,187464
+2019,2,T,Diltiazem Hydrochloride,C08DB,C08DB01,0
+2019,2,F,Doxazosin Mesylate,C02CA,C02CA04,54473
+2019,2,T,Doxazosin Mesylate,C02CA,C02CA04,0
+2019,2,F,Enalapril Maleate,C09AA,C09AA02,208918
+2019,2,T,Enalapril Maleate,C09AA,C09AA02,0
+2019,2,F,Enalapril Maleate/Hydrochlorothiazide,C09BA,C09BA02,13000
+2019,2,T,Enalapril Maleate/Hydrochlorothiazide,C09BA,C09BA02,0
+2019,2,F,Eplerenone,C03DA,C03DA04,5036
+2019,2,T,Eplerenone,C03DA,C03DA04,0
+2019,2,T,Ethacrynate Sodium,C03CC,C03CC01,0
+2019,2,F,Felodipine,C08CA,C08CA02,6983
+2019,2,T,Felodipine,C08CA,C08CA02,0
+2019,2,F,Fosinopril Sodium,C09AA,C09AA09,3373
+2019,2,T,Fosinopril Sodium,C09AA,C09AA09,0
+2019,2,F,Fosinopril Sodium/Hydrochlorothiazide,C09BA,C09BA09,69
+2019,2,T,Fosinopril Sodium/Hydrochlorothiazide,C09BA,C09BA09,0
+2019,2,F,Furosemide,C03CA,C03CA01,939081
+2019,2,T,Furosemide,C03CA,C03CA01,0
+2019,2,F,Guanfacine Hydrochloride,C02AC,C02AC02,857800
+2019,2,T,Guanfacine Hydrochloride,C02AC,C02AC02,0
+2019,2,F,Hydralazine Hydrochloride,C02DB,C02DB02,219499
+2019,2,T,Hydralazine Hydrochloride,C02DB,C02DB02,0
+2019,2,F,Hydralazine Hydrochloride/Isosorbide Dinitrate,C02DB,C02DB02,1706
+2019,2,T,Hydralazine Hydrochloride/Isosorbide Dinitrate,C02DB,C02DB02,0
+2019,2,F,Hydrochlorothiazide,C03AA,C03AA03,1286763
+2019,2,T,Hydrochlorothiazide,C03AA,C03AA03,0
+2019,2,F,Hydrochlorothiazide/Irbesartan,C09DA,C09DA04,10270
+2019,2,T,Hydrochlorothiazide/Irbesartan,C09DA,C09DA04,0
+2019,2,F,Hydrochlorothiazide/Lisinopril,C09BA,C09BA03,555780
+2019,2,T,Hydrochlorothiazide/Lisinopril,C09BA,C09BA03,0
+2019,2,F,Hydrochlorothiazide/Losartan Potassium,C09DA,C09DA01,362664
+2019,2,T,Hydrochlorothiazide/Losartan Potassium,C09DA,C09DA01,0
+2019,2,T,Hydrochlorothiazide/Methyldopa,C02LB,C02LB01,0
+2019,2,T,Hydrochlorothiazide/Metoprolol Succinate,C07BB,C07BB02,0
+2019,2,F,Hydrochlorothiazide/Metoprolol Tartrate,C07BB,C07BB02,2440
+2019,2,T,Hydrochlorothiazide/Metoprolol Tartrate,C07BB,C07BB02,0
+2019,2,T,Hydrochlorothiazide/Moexipril Hydrochloride,C09BA,C09BA13,0
+2019,2,T,Hydrochlorothiazide/Propranolol Hydrochloride,C07BA,C07BA05,0
+2019,2,F,Hydrochlorothiazide/Quinapril Hydrochloride,C09BA,C09BA06,878
+2019,2,T,Hydrochlorothiazide/Quinapril Hydrochloride,C09BA,C09BA06,0
+2019,2,F,Hydrochlorothiazide/Spironolactone,C03EA,C03EA01,9336
+2019,2,T,Hydrochlorothiazide/Spironolactone,C03EA,C03EA01,0
+2019,2,F,Hydrochlorothiazide/Telmisartan,C09DA,C09DA07,2049
+2019,2,T,Hydrochlorothiazide/Telmisartan,C09DA,C09DA07,0
+2019,2,F,Hydrochlorothiazide/Triamterene,C03EA,C03EA01,130810
+2019,2,T,Hydrochlorothiazide/Triamterene,C03EA,C03EA01,0
+2019,2,F,Hydrochlorothiazide/Valsartan,C09DA,C09DA03,29119
+2019,2,T,Hydrochlorothiazide/Valsartan,C09DA,C09DA03,0
+2019,2,F,Indapamide,C03BA,C03BA11,9270
+2019,2,T,Indapamide,C03BA,C03BA11,0
+2019,2,F,Irbesartan,C09CA,C09CA04,39761
+2019,2,T,Irbesartan,C09CA,C09CA04,0
+2019,2,F,Isradipine,C08CA,C08CA03,120
+2019,2,T,Isradipine,C08CA,C08CA03,0
+2019,2,F,Labetalol Hydrochloride,C07AG,C07AG01,141197
+2019,2,T,Labetalol Hydrochloride,C07AG,C07AG01,0
+2019,2,F,Lisinopril,C09AA,C09AA03,2819286
+2019,2,T,Lisinopril,C09AA,C09AA03,0
+2019,2,F,Losartan Potassium,C09CA,C09CA01,1278912
+2019,2,T,Losartan Potassium,C09CA,C09CA01,0
+2019,2,F,Macitentan,C02KX,C02KX04,2384
+2019,2,T,Macitentan,C02KX,C02KX04,0
+2019,2,T,Methyclothiazide,C03AA,C03AA08,0
+2019,2,F,Methyldopa,C02AB,C02AB01,4065
+2019,2,T,Methyldopa,C02AB,C02AB01,0
+2019,2,F,Metolazone,C03BA,C03BA08,27291
+2019,2,T,Metolazone,C03BA,C03BA08,0
+2019,2,F,Metoprolol Succinate,C07AB,C07AB02,1018569
+2019,2,T,Metoprolol Succinate,C07AB,C07AB02,0
+2019,2,F,Metoprolol Tartrate,C07AB,C07AB02,898773
+2019,2,T,Metoprolol Tartrate,C07AB,C07AB02,0
+2019,2,T,Metyrosine,C02KB,C02KB01,0
+2019,2,F,Minoxidil,C02DC,C02DC01,10245
+2019,2,T,Minoxidil,C02DC,C02DC01,0
+2019,2,F,Moexipril Hydrochloride,C09AA,C09AA13,22
+2019,2,T,Moexipril Hydrochloride,C09AA,C09AA13,0
+2019,2,F,Nadolol,C07AA,C07AA12,25792
+2019,2,T,Nadolol,C07AA,C07AA12,0
+2019,2,F,Nebivolol Hydrochloride,C07AB,C07AB12,18205
+2019,2,T,Nebivolol Hydrochloride,C07AB,C07AB12,0
+2019,2,F,Nicardipine Hydrochloride,C08CA,C08CA04,47
+2019,2,T,Nicardipine Hydrochloride,C08CA,C08CA04,0
+2019,2,F,Nifedipine,C08CA,C08CA05,241063
+2019,2,T,Nifedipine,C08CA,C08CA05,0
+2019,2,T,Nimodipine,C08CA,C08CA06,0
+2019,2,F,Nisoldipine,C08CA,C08CA07,16
+2019,2,T,Nisoldipine,C08CA,C08CA07,0
+2019,2,F,Perindopril Erbumine,C09AA,C09AA04,75
+2019,2,T,Perindopril Erbumine,C09AA,C09AA04,0
+2019,2,F,Pindolol,C07AA,C07AA03,1058
+2019,2,T,Pindolol,C07AA,C07AA03,0
+2019,2,F,Prazosin Hydrochloride,C02CA,C02CA01,358762
+2019,2,T,Prazosin Hydrochloride,C02CA,C02CA01,0
+2019,2,F,Propranolol Hydrochloride,C07AA,C07AA05,497274
+2019,2,T,Propranolol Hydrochloride,C07AA,C07AA05,0
+2019,2,F,Quinapril Hydrochloride,C09AA,C09AA06,13153
+2019,2,T,Quinapril Hydrochloride,C09AA,C09AA06,0
+2019,2,F,Ramipril,C09AA,C09AA05,43295
+2019,2,T,Ramipril,C09AA,C09AA05,0
+2019,2,F,Riociguat,C02KX,C02KX05,573
+2019,2,T,Riociguat,C02KX,C02KX05,0
+2019,2,F,Sacubitril/Valsartan,C09DX,C09DX04,50452
+2019,2,T,Sacubitril/Valsartan,C09DX,C09DX04,0
+2019,2,F,Sotalol Hydrochloride,C07AA,C07AA07,18349
+2019,2,T,Sotalol Hydrochloride,C07AA,C07AA07,0
+2019,2,F,Spironolactone,C03DA,C03DA01,459811
+2019,2,T,Spironolactone,C03DA,C03DA01,0
+2019,2,F,Telmisartan,C09CA,C09CA07,9129
+2019,2,T,Telmisartan,C09CA,C09CA07,0
+2019,2,T,Timolol Maleate,C07AA,C07AA06,0
+2019,2,F,Tolvaptan,C03XA,C03XA01,33
+2019,2,T,Tolvaptan,C03XA,C03XA01,0
+2019,2,F,Tolvaptan;Tolvaptan,C03XA,C03XA01,205
+2019,2,T,Tolvaptan;Tolvaptan,C03XA,C03XA01,0
+2019,2,F,Torsemide,C03CA,C03CA04,52992
+2019,2,T,Torsemide,C03CA,C03CA04,0
+2019,2,F,Trandolapril,C09AA,C09AA10,166
+2019,2,T,Trandolapril,C09AA,C09AA10,0
+2019,2,T,Trandolapril/Verapamil Hydrochloride,C09BB,C09BB10,0
+2019,2,F,Valsartan,C09CA,C09CA03,52681
+2019,2,T,Valsartan,C09CA,C09CA03,0
+2019,2,F,Verapamil Hydrochloride,C08DA,C08DA01,85485
+2019,2,T,Verapamil Hydrochloride,C08DA,C08DA01,0
+2019,3,F,Acebutolol Hydrochloride,C07AB,C07AB04,1182
+2019,3,T,Acebutolol Hydrochloride,C07AB,C07AB04,0
+2019,3,F,Aliskiren,C09XA,C09XA02,48
+2019,3,T,Aliskiren,C09XA,C09XA02,0
+2019,3,T,Aliskiren/Hydrochlorothiazide,C09XA,C09XA52,0
+2019,3,F,Ambrisentan,C02KX,C02KX02,3736
+2019,3,T,Ambrisentan,C02KX,C02KX02,0
+2019,3,F,Amiloride Hydrochloride,C03DB,C03DB01,5715
+2019,3,T,Amiloride Hydrochloride,C03DB,C03DB01,0
+2019,3,F,Amiloride Hydrochloride/Hydrochlorothiazide,C03EA,C03EA01,631
+2019,3,T,Amiloride Hydrochloride/Hydrochlorothiazide,C03EA,C03EA01,0
+2019,3,T,Amlodipine,C08CA,C08CA01,0
+2019,3,F,Amlodipine Besylate,C08CA,C08CA01,2280127
+2019,3,T,Amlodipine Besylate,C08CA,C08CA01,0
+2019,3,F,Amlodipine Besylate/Benazepril Hydrochloride,C09BB,C09BB13,56736
+2019,3,T,Amlodipine Besylate/Benazepril Hydrochloride,C09BB,C09BB13,0
+2019,3,F,Amlodipine Besylate/HCTZ/Olmesartan Medoxomil,C09DX,C09DX03,775
+2019,3,T,Amlodipine Besylate/HCTZ/Olmesartan Medoxomil,C09DX,C09DX03,0
+2019,3,F,Amlodipine Besylate/Hydrochlorothiazide/Valsartan,C09DX,C09DX01,850
+2019,3,T,Amlodipine Besylate/Hydrochlorothiazide/Valsartan,C09DX,C09DX01,0
+2019,3,F,Amlodipine Besylate/Olmesartan Medoxomil,C09DB,C09DB02,1490
+2019,3,T,Amlodipine Besylate/Olmesartan Medoxomil,C09DB,C09DB02,0
+2019,3,T,Amlodipine Besylate/Telmisartan,C09DB,C09DB04,0
+2019,3,F,Amlodipine Besylate/Valsartan,C09DB,C09DB01,3638
+2019,3,T,Amlodipine Besylate/Valsartan,C09DB,C09DB01,0
+2019,3,T,Amlodipine/Perindopril Arginine,C09BB,C09BB04,0
+2019,3,F,Atenolol,C07AB,C07AB03,394254
+2019,3,T,Atenolol,C07AB,C07AB03,0
+2019,3,F,Atenolol/Chlorthalidone,C07CB,C07CB03,29059
+2019,3,T,Atenolol/Chlorthalidone,C07CB,C07CB03,0
+2019,3,F,Azilsartan Medoxomil/Chlorthalidone,C03BA,C03BA04,1307
+2019,3,T,Azilsartan Medoxomil/Chlorthalidone,C03BA,C03BA04,0
+2019,3,F,Benazepril Hydrochloride,C09AA,C09AA07,142597
+2019,3,T,Benazepril Hydrochloride,C09AA,C09AA07,0
+2019,3,F,Benazepril Hydrochloride/Hydrochlorothiazide,C09BA,C09BA07,11070
+2019,3,T,Benazepril Hydrochloride/Hydrochlorothiazide,C09BA,C09BA07,0
+2019,3,T,Bendroflumethiazide/Nadolol,C07BA,C07BA12,0
+2019,3,F,Betaxolol Hydrochloride,C07AB,C07AB05,160
+2019,3,T,Betaxolol Hydrochloride,C07AB,C07AB05,0
+2019,3,F,Bisoprolol Fumarate,C07AB,C07AB07,29386
+2019,3,T,Bisoprolol Fumarate,C07AB,C07AB07,0
+2019,3,F,Bisoprolol Fumarate/Hydrochlorothiazide,C07BB,C07BB07,20739
+2019,3,T,Bisoprolol Fumarate/Hydrochlorothiazide,C07BB,C07BB07,0
+2019,3,F,Bosentan,C02KX,C02KX01,397
+2019,3,T,Bosentan,C02KX,C02KX01,0
+2019,3,F,Bumetanide,C03CA,C03CA02,61848
+2019,3,T,Bumetanide,C03CA,C03CA02,0
+2019,3,F,Candesartan Cilexetil,C09CA,C09CA06,5416
+2019,3,T,Candesartan Cilexetil,C09CA,C09CA06,0
+2019,3,F,Candesartan Cilexetil/Hydrochlorothiazide,C09DA,C09DA06,943
+2019,3,T,Candesartan Cilexetil/Hydrochlorothiazide,C09DA,C09DA06,0
+2019,3,F,Captopril,C09AA,C09AA01,5774
+2019,3,T,Captopril,C09AA,C09AA01,0
+2019,3,F,Captopril/Hydrochlorothiazide,C09BA,C09BA01,42
+2019,3,T,Captopril/Hydrochlorothiazide,C09BA,C09BA01,0
+2019,3,F,Carvedilol,C07AG,C07AG02,672540
+2019,3,T,Carvedilol,C07AG,C07AG02,0
+2019,3,F,Carvedilol Phosphate,C07AG,C07AG02,1004
+2019,3,T,Carvedilol Phosphate,C07AG,C07AG02,0
+2019,3,F,Chlorothiazide,C03AA,C03AA04,6113
+2019,3,T,Chlorothiazide,C03AA,C03AA04,0
+2019,3,F,Chlorthalidone,C03BA,C03BA04,186854
+2019,3,T,Chlorthalidone,C03BA,C03BA04,0
+2019,3,F,Clonidine Hydrochloride,C02AC,C02AC01,1353253
+2019,3,T,Clonidine Hydrochloride,C02AC,C02AC01,0
+2019,3,F,Diltiazem Hydrochloride,C08DB,C08DB01,183720
+2019,3,T,Diltiazem Hydrochloride,C08DB,C08DB01,0
+2019,3,F,Doxazosin Mesylate,C02CA,C02CA04,54118
+2019,3,T,Doxazosin Mesylate,C02CA,C02CA04,0
+2019,3,F,Enalapril Maleate,C09AA,C09AA02,206623
+2019,3,T,Enalapril Maleate,C09AA,C09AA02,0
+2019,3,F,Enalapril Maleate/Hydrochlorothiazide,C09BA,C09BA02,11371
+2019,3,T,Enalapril Maleate/Hydrochlorothiazide,C09BA,C09BA02,0
+2019,3,F,Eplerenone,C03DA,C03DA04,5089
+2019,3,T,Eplerenone,C03DA,C03DA04,0
+2019,3,F,Felodipine,C08CA,C08CA02,6559
+2019,3,T,Felodipine,C08CA,C08CA02,0
+2019,3,F,Fosinopril Sodium,C09AA,C09AA09,3224
+2019,3,T,Fosinopril Sodium,C09AA,C09AA09,0
+2019,3,F,Fosinopril Sodium/Hydrochlorothiazide,C09BA,C09BA09,32
+2019,3,T,Fosinopril Sodium/Hydrochlorothiazide,C09BA,C09BA09,0
+2019,3,F,Furosemide,C03CA,C03CA01,956973
+2019,3,T,Furosemide,C03CA,C03CA01,0
+2019,3,F,Guanfacine Hydrochloride,C02AC,C02AC02,852335
+2019,3,T,Guanfacine Hydrochloride,C02AC,C02AC02,0
+2019,3,F,Hydralazine Hydrochloride,C02DB,C02DB02,223986
+2019,3,T,Hydralazine Hydrochloride,C02DB,C02DB02,0
+2019,3,F,Hydralazine Hydrochloride/Isosorbide Dinitrate,C02DB,C02DB02,1753
+2019,3,T,Hydralazine Hydrochloride/Isosorbide Dinitrate,C02DB,C02DB02,0
+2019,3,F,Hydrochlorothiazide,C03AA,C03AA03,1297337
+2019,3,T,Hydrochlorothiazide,C03AA,C03AA03,0
+2019,3,F,Hydrochlorothiazide/Irbesartan,C09DA,C09DA04,9486
+2019,3,T,Hydrochlorothiazide/Irbesartan,C09DA,C09DA04,0
+2019,3,F,Hydrochlorothiazide/Lisinopril,C09BA,C09BA03,544835
+2019,3,T,Hydrochlorothiazide/Lisinopril,C09BA,C09BA03,0
+2019,3,F,Hydrochlorothiazide/Losartan Potassium,C09DA,C09DA01,336111
+2019,3,T,Hydrochlorothiazide/Losartan Potassium,C09DA,C09DA01,0
+2019,3,T,Hydrochlorothiazide/Methyldopa,C02LB,C02LB01,0
+2019,3,F,Hydrochlorothiazide/Metoprolol Tartrate,C07BB,C07BB02,2231
+2019,3,T,Hydrochlorothiazide/Metoprolol Tartrate,C07BB,C07BB02,0
+2019,3,T,Hydrochlorothiazide/Moexipril Hydrochloride,C09BA,C09BA13,0
+2019,3,T,Hydrochlorothiazide/Propranolol Hydrochloride,C07BA,C07BA05,0
+2019,3,F,Hydrochlorothiazide/Quinapril Hydrochloride,C09BA,C09BA06,890
+2019,3,T,Hydrochlorothiazide/Quinapril Hydrochloride,C09BA,C09BA06,0
+2019,3,F,Hydrochlorothiazide/Spironolactone,C03EA,C03EA01,9709
+2019,3,T,Hydrochlorothiazide/Spironolactone,C03EA,C03EA01,0
+2019,3,F,Hydrochlorothiazide/Telmisartan,C09DA,C09DA07,2069
+2019,3,T,Hydrochlorothiazide/Telmisartan,C09DA,C09DA07,0
+2019,3,F,Hydrochlorothiazide/Triamterene,C03EA,C03EA01,128608
+2019,3,T,Hydrochlorothiazide/Triamterene,C03EA,C03EA01,0
+2019,3,F,Hydrochlorothiazide/Valsartan,C09DA,C09DA03,32184
+2019,3,T,Hydrochlorothiazide/Valsartan,C09DA,C09DA03,0
+2019,3,F,Indapamide,C03BA,C03BA11,9333
+2019,3,T,Indapamide,C03BA,C03BA11,0
+2019,3,F,Irbesartan,C09CA,C09CA04,38768
+2019,3,T,Irbesartan,C09CA,C09CA04,0
+2019,3,F,Isradipine,C08CA,C08CA03,92
+2019,3,T,Isradipine,C08CA,C08CA03,0
+2019,3,F,Labetalol Hydrochloride,C07AG,C07AG01,143440
+2019,3,T,Labetalol Hydrochloride,C07AG,C07AG01,0
+2019,3,F,Lisinopril,C09AA,C09AA03,2794176
+2019,3,T,Lisinopril,C09AA,C09AA03,0
+2019,3,F,Losartan Potassium,C09CA,C09CA01,1305583
+2019,3,T,Losartan Potassium,C09CA,C09CA01,0
+2019,3,F,Macitentan,C02KX,C02KX04,2623
+2019,3,T,Macitentan,C02KX,C02KX04,0
+2019,3,T,Methyclothiazide,C03AA,C03AA08,0
+2019,3,F,Methyldopa,C02AB,C02AB01,4158
+2019,3,T,Methyldopa,C02AB,C02AB01,0
+2019,3,F,Metolazone,C03BA,C03BA08,27297
+2019,3,T,Metolazone,C03BA,C03BA08,0
+2019,3,F,Metoprolol Succinate,C07AB,C07AB02,1030160
+2019,3,T,Metoprolol Succinate,C07AB,C07AB02,0
+2019,3,F,Metoprolol Tartrate,C07AB,C07AB02,886837
+2019,3,T,Metoprolol Tartrate,C07AB,C07AB02,0
+2019,3,T,Metyrosine,C02KB,C02KB01,0
+2019,3,F,Minoxidil,C02DC,C02DC01,10284
+2019,3,T,Minoxidil,C02DC,C02DC01,0
+2019,3,F,Moexipril Hydrochloride,C09AA,C09AA13,36
+2019,3,T,Moexipril Hydrochloride,C09AA,C09AA13,0
+2019,3,F,Nadolol,C07AA,C07AA12,25504
+2019,3,T,Nadolol,C07AA,C07AA12,0
+2019,3,F,Nebivolol Hydrochloride,C07AB,C07AB12,18032
+2019,3,T,Nebivolol Hydrochloride,C07AB,C07AB12,0
+2019,3,F,Nicardipine Hydrochloride,C08CA,C08CA04,67
+2019,3,T,Nicardipine Hydrochloride,C08CA,C08CA04,0
+2019,3,F,Nifedipine,C08CA,C08CA05,244081
+2019,3,T,Nifedipine,C08CA,C08CA05,0
+2019,3,F,Nimodipine,C08CA,C08CA06,32
+2019,3,T,Nimodipine,C08CA,C08CA06,0
+2019,3,F,Nisoldipine,C08CA,C08CA07,40
+2019,3,T,Nisoldipine,C08CA,C08CA07,0
+2019,3,F,Perindopril Erbumine,C09AA,C09AA04,81
+2019,3,T,Perindopril Erbumine,C09AA,C09AA04,0
+2019,3,F,Pindolol,C07AA,C07AA03,989
+2019,3,T,Pindolol,C07AA,C07AA03,0
+2019,3,F,Prazosin Hydrochloride,C02CA,C02CA01,368735
+2019,3,T,Prazosin Hydrochloride,C02CA,C02CA01,0
+2019,3,F,Propranolol Hydrochloride,C07AA,C07AA05,505967
+2019,3,T,Propranolol Hydrochloride,C07AA,C07AA05,0
+2019,3,F,Quinapril Hydrochloride,C09AA,C09AA06,12359
+2019,3,T,Quinapril Hydrochloride,C09AA,C09AA06,0
+2019,3,F,Ramipril,C09AA,C09AA05,41385
+2019,3,T,Ramipril,C09AA,C09AA05,0
+2019,3,F,Riociguat,C02KX,C02KX05,644
+2019,3,T,Riociguat,C02KX,C02KX05,0
+2019,3,F,Sacubitril/Valsartan,C09DX,C09DX04,56794
+2019,3,T,Sacubitril/Valsartan,C09DX,C09DX04,0
+2019,3,F,Sotalol Hydrochloride,C07AA,C07AA07,18435
+2019,3,T,Sotalol Hydrochloride,C07AA,C07AA07,0
+2019,3,F,Spironolactone,C03DA,C03DA01,473053
+2019,3,T,Spironolactone,C03DA,C03DA01,0
+2019,3,F,Telmisartan,C09CA,C09CA07,9613
+2019,3,T,Telmisartan,C09CA,C09CA07,0
+2019,3,T,Timolol Maleate,C07AA,C07AA06,0
+2019,3,F,Tolvaptan,C03XA,C03XA01,32
+2019,3,T,Tolvaptan,C03XA,C03XA01,0
+2019,3,F,Tolvaptan;Tolvaptan,C03XA,C03XA01,276
+2019,3,T,Tolvaptan;Tolvaptan,C03XA,C03XA01,0
+2019,3,F,Torsemide,C03CA,C03CA04,56407
+2019,3,T,Torsemide,C03CA,C03CA04,0
+2019,3,F,Trandolapril,C09AA,C09AA10,93
+2019,3,T,Trandolapril,C09AA,C09AA10,0
+2019,3,F,Trandolapril/Verapamil Hydrochloride,C09BB,C09BB10,17
+2019,3,T,Trandolapril/Verapamil Hydrochloride,C09BB,C09BB10,0
+2019,3,T,Triamterene,C03DB,C03DB02,0
+2019,3,F,Valsartan,C09CA,C09CA03,60213
+2019,3,T,Valsartan,C09CA,C09CA03,0
+2019,3,F,Verapamil Hydrochloride,C08DA,C08DA01,84807
+2019,3,T,Verapamil Hydrochloride,C08DA,C08DA01,0
+2019,4,F,Acebutolol Hydrochloride,C07AB,C07AB04,1168
+2019,4,T,Acebutolol Hydrochloride,C07AB,C07AB04,0
+2019,4,F,Aliskiren,C09XA,C09XA02,65
+2019,4,T,Aliskiren,C09XA,C09XA02,0
+2019,4,T,Aliskiren/Hydrochlorothiazide,C09XA,C09XA52,0
+2019,4,F,Ambrisentan,C02KX,C02KX02,3466
+2019,4,T,Ambrisentan,C02KX,C02KX02,0
+2019,4,F,Amiloride Hydrochloride,C03DB,C03DB01,5679
+2019,4,T,Amiloride Hydrochloride,C03DB,C03DB01,0
+2019,4,F,Amiloride Hydrochloride/Hydrochlorothiazide,C03EA,C03EA01,623
+2019,4,T,Amiloride Hydrochloride/Hydrochlorothiazide,C03EA,C03EA01,0
+2019,4,F,Amlodipine,C08CA,C08CA01,1603
+2019,4,T,Amlodipine,C08CA,C08CA01,0
+2019,4,F,Amlodipine Besylate,C08CA,C08CA01,2266947
+2019,4,T,Amlodipine Besylate,C08CA,C08CA01,0
+2019,4,F,Amlodipine Besylate/Benazepril Hydrochloride,C09BB,C09BB13,55045
+2019,4,T,Amlodipine Besylate/Benazepril Hydrochloride,C09BB,C09BB13,0
+2019,4,F,Amlodipine Besylate/HCTZ/Olmesartan Medoxomil,C09DX,C09DX03,677
+2019,4,T,Amlodipine Besylate/HCTZ/Olmesartan Medoxomil,C09DX,C09DX03,0
+2019,4,F,Amlodipine Besylate/Hydrochlorothiazide/Valsartan,C09DX,C09DX01,749
+2019,4,T,Amlodipine Besylate/Hydrochlorothiazide/Valsartan,C09DX,C09DX01,0
+2019,4,F,Amlodipine Besylate/Olmesartan Medoxomil,C09DB,C09DB02,1182
+2019,4,T,Amlodipine Besylate/Olmesartan Medoxomil,C09DB,C09DB02,0
+2019,4,T,Amlodipine Besylate/Telmisartan,C09DB,C09DB04,0
+2019,4,F,Amlodipine Besylate/Valsartan,C09DB,C09DB01,3469
+2019,4,T,Amlodipine Besylate/Valsartan,C09DB,C09DB01,0
+2019,4,F,Atenolol,C07AB,C07AB03,380090
+2019,4,T,Atenolol,C07AB,C07AB03,0
+2019,4,T,Atenolol,C07AB,C07AB11,0
+2019,4,F,Atenolol/Chlorthalidone,C07CB,C07CB03,27522
+2019,4,T,Atenolol/Chlorthalidone,C07CB,C07CB03,0
+2019,4,F,Azilsartan Medoxomil/Chlorthalidone,C03BA,C03BA04,1320
+2019,4,T,Azilsartan Medoxomil/Chlorthalidone,C03BA,C03BA04,0
+2019,4,F,Benazepril Hydrochloride,C09AA,C09AA07,137008
+2019,4,T,Benazepril Hydrochloride,C09AA,C09AA07,0
+2019,4,F,Benazepril Hydrochloride/Hydrochlorothiazide,C09BA,C09BA07,11066
+2019,4,T,Benazepril Hydrochloride/Hydrochlorothiazide,C09BA,C09BA07,0
+2019,4,T,Bendroflumethiazide/Nadolol,C07BA,C07BA12,0
+2019,4,F,Betaxolol Hydrochloride,C07AB,C07AB05,139
+2019,4,T,Betaxolol Hydrochloride,C07AB,C07AB05,0
+2019,4,F,Bisoprolol Fumarate,C07AB,C07AB07,30071
+2019,4,T,Bisoprolol Fumarate,C07AB,C07AB07,0
+2019,4,F,Bisoprolol Fumarate/Hydrochlorothiazide,C07BB,C07BB07,19709
+2019,4,T,Bisoprolol Fumarate/Hydrochlorothiazide,C07BB,C07BB07,0
+2019,4,F,Bosentan,C02KX,C02KX01,403
+2019,4,T,Bosentan,C02KX,C02KX01,0
+2019,4,F,Bumetanide,C03CA,C03CA02,60705
+2019,4,T,Bumetanide,C03CA,C03CA02,0
+2019,4,F,Candesartan Cilexetil,C09CA,C09CA06,5891
+2019,4,T,Candesartan Cilexetil,C09CA,C09CA06,0
+2019,4,F,Candesartan Cilexetil/Hydrochlorothiazide,C09DA,C09DA06,1163
+2019,4,T,Candesartan Cilexetil/Hydrochlorothiazide,C09DA,C09DA06,0
+2019,4,F,Captopril,C09AA,C09AA01,5309
+2019,4,T,Captopril,C09AA,C09AA01,0
+2019,4,F,Captopril/Hydrochlorothiazide,C09BA,C09BA01,22
+2019,4,T,Captopril/Hydrochlorothiazide,C09BA,C09BA01,0
+2019,4,F,Carvedilol,C07AG,C07AG02,662195
+2019,4,T,Carvedilol,C07AG,C07AG02,0
+2019,4,F,Carvedilol Phosphate,C07AG,C07AG02,1066
+2019,4,T,Carvedilol Phosphate,C07AG,C07AG02,0
+2019,4,F,Chlorothiazide,C03AA,C03AA04,5380
+2019,4,T,Chlorothiazide,C03AA,C03AA04,0
+2019,4,F,Chlorthalidone,C03BA,C03BA04,187185
+2019,4,T,Chlorthalidone,C03BA,C03BA04,0
+2019,4,F,Clonidine Hydrochloride,C02AC,C02AC01,1350052
+2019,4,T,Clonidine Hydrochloride,C02AC,C02AC01,0
+2019,4,F,Diltiazem Hydrochloride,C08DB,C08DB01,179675
+2019,4,T,Diltiazem Hydrochloride,C08DB,C08DB01,0
+2019,4,F,Doxazosin Mesylate,C02CA,C02CA04,52395
+2019,4,T,Doxazosin Mesylate,C02CA,C02CA04,0
+2019,4,F,Enalapril Maleate,C09AA,C09AA02,197114
+2019,4,T,Enalapril Maleate,C09AA,C09AA02,0
+2019,4,F,Enalapril Maleate/Hydrochlorothiazide,C09BA,C09BA02,10655
+2019,4,T,Enalapril Maleate/Hydrochlorothiazide,C09BA,C09BA02,0
+2019,4,F,Eplerenone,C03DA,C03DA04,5032
+2019,4,T,Eplerenone,C03DA,C03DA04,0
+2019,4,F,Felodipine,C08CA,C08CA02,6250
+2019,4,T,Felodipine,C08CA,C08CA02,0
+2019,4,F,Fosinopril Sodium,C09AA,C09AA09,3007
+2019,4,T,Fosinopril Sodium,C09AA,C09AA09,0
+2019,4,T,Fosinopril Sodium/Hydrochlorothiazide,C09BA,C09BA09,0
+2019,4,F,Furosemide,C03CA,C03CA01,905949
+2019,4,T,Furosemide,C03CA,C03CA01,0
+2019,4,F,Guanfacine Hydrochloride,C02AC,C02AC02,888571
+2019,4,T,Guanfacine Hydrochloride,C02AC,C02AC02,0
+2019,4,F,Hydralazine Hydrochloride,C02DB,C02DB02,222464
+2019,4,T,Hydralazine Hydrochloride,C02DB,C02DB02,0
+2019,4,F,Hydralazine Hydrochloride/Isosorbide Dinitrate,C02DB,C02DB02,1696
+2019,4,T,Hydralazine Hydrochloride/Isosorbide Dinitrate,C02DB,C02DB02,0
+2019,4,F,Hydrochlorothiazide,C03AA,C03AA03,1333226
+2019,4,T,Hydrochlorothiazide,C03AA,C03AA03,0
+2019,4,F,Hydrochlorothiazide/Irbesartan,C09DA,C09DA04,10739
+2019,4,T,Hydrochlorothiazide/Irbesartan,C09DA,C09DA04,0
+2019,4,F,Hydrochlorothiazide/Lisinopril,C09BA,C09BA03,525451
+2019,4,T,Hydrochlorothiazide/Lisinopril,C09BA,C09BA03,0
+2019,4,F,Hydrochlorothiazide/Losartan Potassium,C09DA,C09DA01,206207
+2019,4,T,Hydrochlorothiazide/Losartan Potassium,C09DA,C09DA01,0
+2019,4,T,Hydrochlorothiazide/Methyldopa,C02LB,C02LB01,0
+2019,4,F,Hydrochlorothiazide/Metoprolol Tartrate,C07BB,C07BB02,2170
+2019,4,T,Hydrochlorothiazide/Metoprolol Tartrate,C07BB,C07BB02,0
+2019,4,T,Hydrochlorothiazide/Propranolol Hydrochloride,C07BA,C07BA05,0
+2019,4,F,Hydrochlorothiazide/Quinapril Hydrochloride,C09BA,C09BA06,783
+2019,4,T,Hydrochlorothiazide/Quinapril Hydrochloride,C09BA,C09BA06,0
+2019,4,F,Hydrochlorothiazide/Spironolactone,C03EA,C03EA01,9245
+2019,4,T,Hydrochlorothiazide/Spironolactone,C03EA,C03EA01,0
+2019,4,F,Hydrochlorothiazide/Telmisartan,C09DA,C09DA07,2538
+2019,4,T,Hydrochlorothiazide/Telmisartan,C09DA,C09DA07,0
+2019,4,F,Hydrochlorothiazide/Triamterene,C03EA,C03EA01,121817
+2019,4,T,Hydrochlorothiazide/Triamterene,C03EA,C03EA01,0
+2019,4,F,Hydrochlorothiazide/Valsartan,C09DA,C09DA03,40169
+2019,4,T,Hydrochlorothiazide/Valsartan,C09DA,C09DA03,0
+2019,4,F,Indapamide,C03BA,C03BA11,9126
+2019,4,T,Indapamide,C03BA,C03BA11,0
+2019,4,F,Irbesartan,C09CA,C09CA04,42154
+2019,4,T,Irbesartan,C09CA,C09CA04,0
+2019,4,F,Isradipine,C08CA,C08CA03,60
+2019,4,T,Isradipine,C08CA,C08CA03,0
+2019,4,F,Labetalol Hydrochloride,C07AG,C07AG01,141404
+2019,4,T,Labetalol Hydrochloride,C07AG,C07AG01,0
+2019,4,F,Lisinopril,C09AA,C09AA03,2739055
+2019,4,T,Lisinopril,C09AA,C09AA03,0
+2019,4,F,Losartan Potassium,C09CA,C09CA01,1359831
+2019,4,T,Losartan Potassium,C09CA,C09CA01,0
+2019,4,F,Macitentan,C02KX,C02KX04,2531
+2019,4,T,Macitentan,C02KX,C02KX04,0
+2019,4,F,Methyldopa,C02AB,C02AB01,4075
+2019,4,T,Methyldopa,C02AB,C02AB01,0
+2019,4,F,Metolazone,C03BA,C03BA08,26085
+2019,4,T,Metolazone,C03BA,C03BA08,0
+2019,4,F,Metoprolol Succinate,C07AB,C07AB02,1023676
+2019,4,T,Metoprolol Succinate,C07AB,C07AB02,0
+2019,4,F,Metoprolol Tartrate,C07AB,C07AB02,857193
+2019,4,T,Metoprolol Tartrate,C07AB,C07AB02,0
+2019,4,T,Metyrosine,C02KB,C02KB01,0
+2019,4,F,Minoxidil,C02DC,C02DC01,10121
+2019,4,T,Minoxidil,C02DC,C02DC01,0
+2019,4,F,Moexipril Hydrochloride,C09AA,C09AA13,18
+2019,4,T,Moexipril Hydrochloride,C09AA,C09AA13,0
+2019,4,F,Nadolol,C07AA,C07AA12,24337
+2019,4,T,Nadolol,C07AA,C07AA12,0
+2019,4,F,Nebivolol Hydrochloride,C07AB,C07AB12,17530
+2019,4,T,Nebivolol Hydrochloride,C07AB,C07AB12,0
+2019,4,F,Nicardipine Hydrochloride,C08CA,C08CA04,66
+2019,4,T,Nicardipine Hydrochloride,C08CA,C08CA04,0
+2019,4,F,Nifedipine,C08CA,C08CA05,243846
+2019,4,T,Nifedipine,C08CA,C08CA05,0
+2019,4,T,Nimodipine,C08CA,C08CA06,0
+2019,4,F,Nisoldipine,C08CA,C08CA07,14
+2019,4,T,Nisoldipine,C08CA,C08CA07,0
+2019,4,F,Perindopril Erbumine,C09AA,C09AA04,70
+2019,4,T,Perindopril Erbumine,C09AA,C09AA04,0
+2019,4,F,Pindolol,C07AA,C07AA03,1056
+2019,4,T,Pindolol,C07AA,C07AA03,0
+2019,4,F,Prazosin Hydrochloride,C02CA,C02CA01,374067
+2019,4,T,Prazosin Hydrochloride,C02CA,C02CA01,0
+2019,4,F,Propranolol Hydrochloride,C07AA,C07AA05,508395
+2019,4,T,Propranolol Hydrochloride,C07AA,C07AA05,0
+2019,4,F,Quinapril Hydrochloride,C09AA,C09AA06,11725
+2019,4,T,Quinapril Hydrochloride,C09AA,C09AA06,0
+2019,4,F,Ramipril,C09AA,C09AA05,40608
+2019,4,T,Ramipril,C09AA,C09AA05,0
+2019,4,F,Riociguat,C02KX,C02KX05,691
+2019,4,T,Riociguat,C02KX,C02KX05,0
+2019,4,F,Sacubitril/Valsartan,C09DX,C09DX04,62736
+2019,4,T,Sacubitril/Valsartan,C09DX,C09DX04,0
+2019,4,F,Sotalol Hydrochloride,C07AA,C07AA07,17978
+2019,4,T,Sotalol Hydrochloride,C07AA,C07AA07,0
+2019,4,F,Spironolactone,C03DA,C03DA01,469511
+2019,4,T,Spironolactone,C03DA,C03DA01,0
+2019,4,F,Telmisartan,C09CA,C09CA07,9802
+2019,4,T,Telmisartan,C09CA,C09CA07,0
+2019,4,T,Timolol Maleate,C07AA,C07AA06,0
+2019,4,F,Tolvaptan,C03XA,C03XA01,13
+2019,4,T,Tolvaptan,C03XA,C03XA01,0
+2019,4,F,Tolvaptan;Tolvaptan,C03XA,C03XA01,335
+2019,4,T,Tolvaptan;Tolvaptan,C03XA,C03XA01,0
+2019,4,F,Torsemide,C03CA,C03CA04,57080
+2019,4,T,Torsemide,C03CA,C03CA04,0
+2019,4,F,Trandolapril,C09AA,C09AA10,81
+2019,4,T,Trandolapril,C09AA,C09AA10,0
+2019,4,F,Trandolapril/Verapamil Hydrochloride,C09BB,C09BB10,18
+2019,4,T,Trandolapril/Verapamil Hydrochloride,C09BB,C09BB10,0
+2019,4,T,Triamterene,C03DB,C03DB02,0
+2019,4,F,Valsartan,C09CA,C09CA03,70013
+2019,4,T,Valsartan,C09CA,C09CA03,0
+2019,4,F,Verapamil Hydrochloride,C08DA,C08DA01,81774
+2019,4,T,Verapamil Hydrochloride,C08DA,C08DA01,0
